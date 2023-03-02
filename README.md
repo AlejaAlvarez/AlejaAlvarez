@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hola, Soy Alejandra Alvarez 👋👩‍💻
+Soy frontend Developer, estudiante de Desarrollo de Software en el ITM. Me apasiona mucho la tecnología en especial todo lo que tiene que ver con el front-end. Me gusta estar constantemente aprendiendo cosas nuevas, y asistir a eventos de comunidades tech.
+________________________________________________________________________________________________________________
+### Lenguajes y herramientas ⚙✨
+- HTML
+- CSS
+- SASS
+- JavaScript
+- Git/GitHub
+- Azure DevOps
 
-<!--
-**AlejaAlvarez/AlejaAlvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_________________________________________________________________________________________________________________
+### Me puedes encontrar 🌎: 
+- [Twitter](https://twitter.com/Aleja_Alvarezz1)
+- [Linkedin](https://www.linkedin.com/in/alejandra-alvarez-serna-786461196/)
