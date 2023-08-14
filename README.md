@@ -1,5 +1,5 @@
 # Hola, Soy Alejandra Alvarez 👋👩‍💻
-Soy frontend Developer, estudiante de Desarrollo de Software en el ITM. Me apasiona mucho la tecnología en especial todo lo que tiene que ver con el front-end. Me gusta estar constantemente aprendiendo cosas nuevas, y asistir a eventos de comunidades tech.
+Soy frontend Developer jr, estudiante de Desarrollo de Software en el ITM. Me apasiona mucho la tecnología en especial todo lo que tiene que ver con desarrollo web. Me gusta estar constantemente aprendiendo cosas nuevas, y asistir a eventos de comunidades tech.
 ________________________________________________________________________________________________________________
 ### Lenguajes y herramientas ⚙✨
 - HTML
